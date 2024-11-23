@@ -10,8 +10,13 @@ set "URL_FILE=resources.txt"
 
 if exist %URL_FILE% (
     for /F "tokens=*" %%A in (%URL_FILE%) do (
-        start "" msedge %%A
+        rem Skip empty lines
+        if not "%%A"=="" (
+            start "" msedge %%A
+        )
     )
+) else (
+    echo File "%URL_FILE%" not found.
 )
 
 echo Succesfully access - %TITLE%
