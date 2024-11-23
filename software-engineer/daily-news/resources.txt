@@ -6,6 +6,6 @@ https://dev.to/
 
 https://medium.com/
 
-https://github.com/explore
-
 https://github.com/trending
+
+https://github.com/explore
