@@ -46,6 +46,14 @@ https://news.ycombinator.com/ask
 
 https://www.producthunt.com/coming-soon
 
-https://www.facebook.com/groups/SaaSgrowthhacking
+https://trends.google.com/trending?geo=US&hl=en-US
 
-https://trends.vc/
+https://trends.google.com/trending?geo=DK
+
+https://trends.google.com/trending?geo=FI
+
+https://trends.google.com/trending?geo=NO
+
+https://trends.google.com/trending?geo=SE
+
+https://trends.google.com/trending?geo=VN&hl=en-US
