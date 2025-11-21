@@ -1,6 +1,10 @@
 https://news.ycombinator.com/
 
+https://www.indiehackers.com/
+
 https://www.reddit.com/r/webdev/
+
+https://newsletter.systemdesign.one/
 
 https://dev.to/
 
@@ -12,9 +16,12 @@ https://github.com/explore
 
 https://www.reddit.com/r/SoftwareEngineering/
 
-https://hackernoon.com/tagged/programming
+https://hackernoon.com/
 
 https://stackoverflow.com/
 
 https://www.youtube.com/@Fireship
 
+https://www.interviewbit.com/
+
+https://algomaster.io/
